@@ -1,4 +1,4 @@
-# Rock Paper Scissors Oyunu
+# Taş - Kağıt - Makas Oyunu
 
 Bu çalışmayı "Aygaz Python Bootcamp: Yeni Nesil Proje Kampı" bünyesinde oluşturdum.  Kamp süresince gerek eğitimler gerekse mentor destekleri için emeği geçen herkese teşekkür ederim.
 
